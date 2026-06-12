@@ -1,0 +1,116 @@
+{
+  "build": "py312h885b0b7_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "extracted_package_dir": "C:\\Users\\aruni\\anaconda3\\pkgs\\pyodbc-5.3.0-py312h885b0b7_0",
+  "files": [
+    "Lib/site-packages/pyodbc-5.3.0.dist-info/INSTALLER",
+    "Lib/site-packages/pyodbc-5.3.0.dist-info/METADATA",
+    "Lib/site-packages/pyodbc-5.3.0.dist-info/RECORD",
+    "Lib/site-packages/pyodbc-5.3.0.dist-info/REQUESTED",
+    "Lib/site-packages/pyodbc-5.3.0.dist-info/WHEEL",
+    "Lib/site-packages/pyodbc-5.3.0.dist-info/direct_url.json",
+    "Lib/site-packages/pyodbc-5.3.0.dist-info/licenses/LICENSE.txt",
+    "Lib/site-packages/pyodbc-5.3.0.dist-info/top_level.txt",
+    "Lib/site-packages/pyodbc.cp312-win_amd64.pyd",
+    "Lib/site-packages/pyodbc.pyi"
+  ],
+  "fn": "pyodbc-5.3.0-py312h885b0b7_0.conda",
+  "license": "MIT-0",
+  "link": {
+    "source": "C:\\Users\\aruni\\anaconda3\\pkgs\\pyodbc-5.3.0-py312h885b0b7_0",
+    "type": 1
+  },
+  "md5": "5d4144256291561abcc585faded56ad2",
+  "name": "pyodbc",
+  "package_tarball_full_path": "C:\\Users\\aruni\\anaconda3\\pkgs\\pyodbc-5.3.0-py312h885b0b7_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/pyodbc-5.3.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/pyodbc-5.3.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "995812c96f406d42145076a44a4dfe66dc589422cb4b377b23f84ceea42f5f99",
+        "sha256_in_prefix": "995812c96f406d42145076a44a4dfe66dc589422cb4b377b23f84ceea42f5f99",
+        "size_in_bytes": 2802
+      },
+      {
+        "_path": "Lib/site-packages/pyodbc-5.3.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "4b4a84c038da00949daf39aa0f55a6437366833fb56628d48df4e3e1a5baecbf",
+        "sha256_in_prefix": "4b4a84c038da00949daf39aa0f55a6437366833fb56628d48df4e3e1a5baecbf",
+        "size_in_bytes": 821
+      },
+      {
+        "_path": "Lib/site-packages/pyodbc-5.3.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/pyodbc-5.3.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "f143fdc7da6e588d0fd55fddecada831306a7de2cd9b6d424f367f3edaf43575",
+        "sha256_in_prefix": "f143fdc7da6e588d0fd55fddecada831306a7de2cd9b6d424f367f3edaf43575",
+        "size_in_bytes": 101
+      },
+      {
+        "_path": "Lib/site-packages/pyodbc-5.3.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "a0be456a22411dd3d61d1b96b63dc959e547c99794724ea4e5b569bac5b3fd5e",
+        "sha256_in_prefix": "a0be456a22411dd3d61d1b96b63dc959e547c99794724ea4e5b569bac5b3fd5e",
+        "size_in_bytes": 84
+      },
+      {
+        "_path": "Lib/site-packages/pyodbc-5.3.0.dist-info/licenses/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "9859c85770c91b7866b0f769c938e36d64d0260141b529b947b4ead96883eab4",
+        "sha256_in_prefix": "9859c85770c91b7866b0f769c938e36d64d0260141b529b947b4ead96883eab4",
+        "size_in_bytes": 868
+      },
+      {
+        "_path": "Lib/site-packages/pyodbc-5.3.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "45bebdbd2f9234dfc17e1f7dbd7ede09cbc4009a32ce8c06deee11ed6dfa165c",
+        "sha256_in_prefix": "45bebdbd2f9234dfc17e1f7dbd7ede09cbc4009a32ce8c06deee11ed6dfa165c",
+        "size_in_bytes": 8
+      },
+      {
+        "_path": "Lib/site-packages/pyodbc.cp312-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "3efd6728bef89b1f6924d9c20ed50450467220950088ced5c294b7f84391a965",
+        "sha256_in_prefix": "3efd6728bef89b1f6924d9c20ed50450467220950088ced5c294b7f84391a965",
+        "size_in_bytes": 146760
+      },
+      {
+        "_path": "Lib/site-packages/pyodbc.pyi",
+        "path_type": "hardlink",
+        "sha256": "6121dc4bc0c7ce082003978a549b81a6fcfa44039268edfd06a4d4125ec60367",
+        "sha256_in_prefix": "6121dc4bc0c7ce082003978a549b81a6fcfa44039268edfd06a4d4125ec60367",
+        "size_in_bytes": 32673
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "pyodbc",
+  "sha256": "1f440e154a6a8fde49435f44de1a3e1f11ff9018ddebe25bbbcdb551a42d9413",
+  "size": 75947,
+  "subdir": "win-64",
+  "timestamp": 1761670497000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pyodbc-5.3.0-py312h885b0b7_0.conda",
+  "version": "5.3.0"
+}
