@@ -1,4 +1,4 @@
-#!C:\b\abs_6cl6y8nskc\croot\openssl_1753176364202\_build_env\Library\bin\perl
+#!C:\Users\task_178103414789582\croot\openssl_1781034611958\_build_env\Library\bin\perl
 # Copyright 2000-2025 The OpenSSL Project Authors. All Rights Reserved.
 #
 # Licensed under the Apache License 2.0 (the "License").  You may not use
