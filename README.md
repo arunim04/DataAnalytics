@@ -37,7 +37,7 @@ Here is a quick snapshot of the skills I’ve unlocked so far:
 
 ## 🛠️ Tech Stack & Tools
 
-* **Languages:** Python (SQL coming soon!)
+* **Languages:** Python, Sql
 * **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 * **BI Tools:** Power BI Desktop
 * **Environments:** Jupyter Notebooks, VS Code
@@ -47,16 +47,16 @@ Here is a quick snapshot of the skills I’ve unlocked so far:
 ## 📚 Key Learning Resources & Certification Log
 
 I believe in continuous learning. Here are the courses and resources that have shaped my knowledge:
-1. *Google Data Analytics Professional Certificate* (Coursera)
-2. *Python for Data Science and Machine Learning Bootcamp* (Udemy)
+1. *Python for Data Science and Machine Learning Bootcamp* (Udemy)
+2. Advanced SQL (Youtube)
 3. *Microsoft Power BI Data Analyst Certification (PL-300)* — *Currently studying!*
 
 ---
 
 ## 📫 Connect with Me
-* **LinkedIn:** [Your Name](https://linkedin.com/in/yourprofile)
+* **LinkedIn:** [Arunim Sureka](https://www.linkedin.com/in/arunim-sureka-118114228)
 * **Portfolio Website:** [Link to your site if you have one]
-* **Email:** your.email@example.com
+* **Email:** arunimsureka@gmail.com
 
 ---
 *Feel free to explore my code, leave feedback on my dashboards, or reach out if you want to collaborate!*
