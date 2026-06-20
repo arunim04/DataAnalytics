@@ -1,0 +1,150 @@
+season,round,pole_driver_id,pole_driver,pole_constructor,winner_id,race_name,pole_converted
+2018,1,hamilton,Lewis Hamilton,Mercedes,vettel,Australian Grand Prix,False
+2018,2,vettel,Sebastian Vettel,Ferrari,vettel,Bahrain Grand Prix,True
+2018,3,vettel,Sebastian Vettel,Ferrari,ricciardo,Chinese Grand Prix,False
+2018,4,vettel,Sebastian Vettel,Ferrari,hamilton,Azerbaijan Grand Prix,False
+2018,5,hamilton,Lewis Hamilton,Mercedes,hamilton,Spanish Grand Prix,True
+2018,6,ricciardo,Daniel Ricciardo,Red Bull,ricciardo,Monaco Grand Prix,True
+2018,7,vettel,Sebastian Vettel,Ferrari,vettel,Canadian Grand Prix,True
+2018,8,hamilton,Lewis Hamilton,Mercedes,hamilton,French Grand Prix,True
+2018,9,bottas,Valtteri Bottas,Mercedes,max_verstappen,Austrian Grand Prix,False
+2018,10,hamilton,Lewis Hamilton,Mercedes,vettel,British Grand Prix,False
+2018,11,vettel,Sebastian Vettel,Ferrari,hamilton,German Grand Prix,False
+2018,12,hamilton,Lewis Hamilton,Mercedes,hamilton,Hungarian Grand Prix,True
+2018,13,hamilton,Lewis Hamilton,Mercedes,vettel,Belgian Grand Prix,False
+2018,14,raikkonen,Kimi Räikkönen,Ferrari,hamilton,Italian Grand Prix,False
+2018,15,hamilton,Lewis Hamilton,Mercedes,hamilton,Singapore Grand Prix,True
+2018,16,bottas,Valtteri Bottas,Mercedes,hamilton,Russian Grand Prix,False
+2018,17,hamilton,Lewis Hamilton,Mercedes,hamilton,Japanese Grand Prix,True
+2018,18,hamilton,Lewis Hamilton,Mercedes,raikkonen,United States Grand Prix,False
+2018,19,ricciardo,Daniel Ricciardo,Red Bull,max_verstappen,Mexican Grand Prix,False
+2018,20,hamilton,Lewis Hamilton,Mercedes,hamilton,Brazilian Grand Prix,True
+2018,21,hamilton,Lewis Hamilton,Mercedes,hamilton,Abu Dhabi Grand Prix,True
+2019,1,hamilton,Lewis Hamilton,Mercedes,bottas,Australian Grand Prix,False
+2019,2,leclerc,Charles Leclerc,Ferrari,hamilton,Bahrain Grand Prix,False
+2019,3,bottas,Valtteri Bottas,Mercedes,hamilton,Chinese Grand Prix,False
+2019,4,bottas,Valtteri Bottas,Mercedes,bottas,Azerbaijan Grand Prix,True
+2019,5,bottas,Valtteri Bottas,Mercedes,hamilton,Spanish Grand Prix,False
+2019,6,hamilton,Lewis Hamilton,Mercedes,hamilton,Monaco Grand Prix,True
+2019,7,vettel,Sebastian Vettel,Ferrari,hamilton,Canadian Grand Prix,False
+2019,8,hamilton,Lewis Hamilton,Mercedes,hamilton,French Grand Prix,True
+2019,9,leclerc,Charles Leclerc,Ferrari,max_verstappen,Austrian Grand Prix,False
+2019,10,bottas,Valtteri Bottas,Mercedes,hamilton,British Grand Prix,False
+2019,11,hamilton,Lewis Hamilton,Mercedes,max_verstappen,German Grand Prix,False
+2019,12,max_verstappen,Max Verstappen,Red Bull,hamilton,Hungarian Grand Prix,False
+2019,13,leclerc,Charles Leclerc,Ferrari,leclerc,Belgian Grand Prix,True
+2019,14,leclerc,Charles Leclerc,Ferrari,leclerc,Italian Grand Prix,True
+2019,15,leclerc,Charles Leclerc,Ferrari,vettel,Singapore Grand Prix,False
+2019,16,leclerc,Charles Leclerc,Ferrari,hamilton,Russian Grand Prix,False
+2019,17,vettel,Sebastian Vettel,Ferrari,bottas,Japanese Grand Prix,False
+2019,18,max_verstappen,Max Verstappen,Red Bull,hamilton,Mexican Grand Prix,False
+2019,19,bottas,Valtteri Bottas,Mercedes,bottas,United States Grand Prix,True
+2019,20,max_verstappen,Max Verstappen,Red Bull,max_verstappen,Brazilian Grand Prix,True
+2019,21,hamilton,Lewis Hamilton,Mercedes,hamilton,Abu Dhabi Grand Prix,True
+2020,1,bottas,Valtteri Bottas,Mercedes,bottas,Austrian Grand Prix,True
+2020,2,hamilton,Lewis Hamilton,Mercedes,hamilton,Styrian Grand Prix,True
+2020,3,hamilton,Lewis Hamilton,Mercedes,hamilton,Hungarian Grand Prix,True
+2020,4,hamilton,Lewis Hamilton,Mercedes,hamilton,British Grand Prix,True
+2020,5,bottas,Valtteri Bottas,Mercedes,max_verstappen,70th Anniversary Grand Prix,False
+2020,6,hamilton,Lewis Hamilton,Mercedes,hamilton,Spanish Grand Prix,True
+2020,7,hamilton,Lewis Hamilton,Mercedes,hamilton,Belgian Grand Prix,True
+2020,8,hamilton,Lewis Hamilton,Mercedes,gasly,Italian Grand Prix,False
+2020,9,hamilton,Lewis Hamilton,Mercedes,hamilton,Tuscan Grand Prix,True
+2020,10,hamilton,Lewis Hamilton,Mercedes,bottas,Russian Grand Prix,False
+2020,11,bottas,Valtteri Bottas,Mercedes,hamilton,Eifel Grand Prix,False
+2020,12,hamilton,Lewis Hamilton,Mercedes,hamilton,Portuguese Grand Prix,True
+2020,13,bottas,Valtteri Bottas,Mercedes,hamilton,Emilia Romagna Grand Prix,False
+2020,14,stroll,Lance Stroll,Racing Point,hamilton,Turkish Grand Prix,False
+2020,15,hamilton,Lewis Hamilton,Mercedes,hamilton,Bahrain Grand Prix,True
+2020,16,bottas,Valtteri Bottas,Mercedes,perez,Sakhir Grand Prix,False
+2020,17,max_verstappen,Max Verstappen,Red Bull,max_verstappen,Abu Dhabi Grand Prix,True
+2021,1,max_verstappen,Max Verstappen,Red Bull,hamilton,Bahrain Grand Prix,False
+2021,2,hamilton,Lewis Hamilton,Mercedes,max_verstappen,Emilia Romagna Grand Prix,False
+2021,3,bottas,Valtteri Bottas,Mercedes,hamilton,Portuguese Grand Prix,False
+2021,4,hamilton,Lewis Hamilton,Mercedes,hamilton,Spanish Grand Prix,True
+2021,5,leclerc,Charles Leclerc,Ferrari,max_verstappen,Monaco Grand Prix,False
+2021,6,leclerc,Charles Leclerc,Ferrari,perez,Azerbaijan Grand Prix,False
+2021,7,max_verstappen,Max Verstappen,Red Bull,max_verstappen,French Grand Prix,True
+2021,8,max_verstappen,Max Verstappen,Red Bull,max_verstappen,Styrian Grand Prix,True
+2021,9,max_verstappen,Max Verstappen,Red Bull,max_verstappen,Austrian Grand Prix,True
+2021,10,hamilton,Lewis Hamilton,Mercedes,hamilton,British Grand Prix,True
+2021,11,hamilton,Lewis Hamilton,Mercedes,ocon,Hungarian Grand Prix,False
+2021,12,max_verstappen,Max Verstappen,Red Bull,max_verstappen,Belgian Grand Prix,True
+2021,13,max_verstappen,Max Verstappen,Red Bull,max_verstappen,Dutch Grand Prix,True
+2021,14,bottas,Valtteri Bottas,Mercedes,ricciardo,Italian Grand Prix,False
+2021,15,norris,Lando Norris,McLaren,hamilton,Russian Grand Prix,False
+2021,16,hamilton,Lewis Hamilton,Mercedes,bottas,Turkish Grand Prix,False
+2021,17,max_verstappen,Max Verstappen,Red Bull,max_verstappen,United States Grand Prix,True
+2021,18,bottas,Valtteri Bottas,Mercedes,max_verstappen,Mexico City Grand Prix,False
+2021,19,hamilton,Lewis Hamilton,Mercedes,hamilton,São Paulo Grand Prix,True
+2021,20,hamilton,Lewis Hamilton,Mercedes,hamilton,Qatar Grand Prix,True
+2021,21,hamilton,Lewis Hamilton,Mercedes,hamilton,Saudi Arabian Grand Prix,True
+2021,22,max_verstappen,Max Verstappen,Red Bull,max_verstappen,Abu Dhabi Grand Prix,True
+2022,1,leclerc,Charles Leclerc,Ferrari,leclerc,Bahrain Grand Prix,True
+2022,2,perez,Sergio Pérez,Red Bull,max_verstappen,Saudi Arabian Grand Prix,False
+2022,3,leclerc,Charles Leclerc,Ferrari,leclerc,Australian Grand Prix,True
+2022,4,max_verstappen,Max Verstappen,Red Bull,max_verstappen,Emilia Romagna Grand Prix,True
+2022,5,leclerc,Charles Leclerc,Ferrari,max_verstappen,Miami Grand Prix,False
+2022,6,leclerc,Charles Leclerc,Ferrari,max_verstappen,Spanish Grand Prix,False
+2022,7,leclerc,Charles Leclerc,Ferrari,perez,Monaco Grand Prix,False
+2022,8,leclerc,Charles Leclerc,Ferrari,max_verstappen,Azerbaijan Grand Prix,False
+2022,9,max_verstappen,Max Verstappen,Red Bull,max_verstappen,Canadian Grand Prix,True
+2022,10,sainz,Carlos Sainz,Ferrari,sainz,British Grand Prix,True
+2022,11,max_verstappen,Max Verstappen,Red Bull,leclerc,Austrian Grand Prix,False
+2022,12,leclerc,Charles Leclerc,Ferrari,max_verstappen,French Grand Prix,False
+2022,13,russell,George Russell,Mercedes,max_verstappen,Hungarian Grand Prix,False
+2022,14,max_verstappen,Max Verstappen,Red Bull,max_verstappen,Belgian Grand Prix,True
+2022,15,max_verstappen,Max Verstappen,Red Bull,max_verstappen,Dutch Grand Prix,True
+2022,16,leclerc,Charles Leclerc,Ferrari,max_verstappen,Italian Grand Prix,False
+2022,17,leclerc,Charles Leclerc,Ferrari,perez,Singapore Grand Prix,False
+2022,18,max_verstappen,Max Verstappen,Red Bull,max_verstappen,Japanese Grand Prix,True
+2022,19,sainz,Carlos Sainz,Ferrari,max_verstappen,United States Grand Prix,False
+2022,20,max_verstappen,Max Verstappen,Red Bull,max_verstappen,Mexico City Grand Prix,True
+2022,21,kevin_magnussen,Kevin Magnussen,Haas F1 Team,russell,São Paulo Grand Prix,False
+2022,22,max_verstappen,Max Verstappen,Red Bull,max_verstappen,Abu Dhabi Grand Prix,True
+2023,1,max_verstappen,Max Verstappen,Red Bull,max_verstappen,Bahrain Grand Prix,True
+2023,2,perez,Sergio Pérez,Red Bull,perez,Saudi Arabian Grand Prix,True
+2023,3,max_verstappen,Max Verstappen,Red Bull,max_verstappen,Australian Grand Prix,True
+2023,4,leclerc,Charles Leclerc,Ferrari,perez,Azerbaijan Grand Prix,False
+2023,5,perez,Sergio Pérez,Red Bull,max_verstappen,Miami Grand Prix,False
+2023,6,max_verstappen,Max Verstappen,Red Bull,max_verstappen,Monaco Grand Prix,True
+2023,7,max_verstappen,Max Verstappen,Red Bull,max_verstappen,Spanish Grand Prix,True
+2023,8,max_verstappen,Max Verstappen,Red Bull,max_verstappen,Canadian Grand Prix,True
+2023,9,max_verstappen,Max Verstappen,Red Bull,max_verstappen,Austrian Grand Prix,True
+2023,10,max_verstappen,Max Verstappen,Red Bull,max_verstappen,British Grand Prix,True
+2023,11,hamilton,Lewis Hamilton,Mercedes,max_verstappen,Hungarian Grand Prix,False
+2023,12,max_verstappen,Max Verstappen,Red Bull,max_verstappen,Belgian Grand Prix,True
+2023,13,max_verstappen,Max Verstappen,Red Bull,max_verstappen,Dutch Grand Prix,True
+2023,14,sainz,Carlos Sainz,Ferrari,max_verstappen,Italian Grand Prix,False
+2023,15,sainz,Carlos Sainz,Ferrari,sainz,Singapore Grand Prix,True
+2023,16,max_verstappen,Max Verstappen,Red Bull,max_verstappen,Japanese Grand Prix,True
+2023,17,max_verstappen,Max Verstappen,Red Bull,max_verstappen,Qatar Grand Prix,True
+2023,18,leclerc,Charles Leclerc,Ferrari,max_verstappen,United States Grand Prix,False
+2023,19,leclerc,Charles Leclerc,Ferrari,max_verstappen,Mexico City Grand Prix,False
+2023,20,max_verstappen,Max Verstappen,Red Bull,max_verstappen,São Paulo Grand Prix,True
+2023,21,leclerc,Charles Leclerc,Ferrari,max_verstappen,Las Vegas Grand Prix,False
+2023,22,max_verstappen,Max Verstappen,Red Bull,max_verstappen,Abu Dhabi Grand Prix,True
+2024,1,max_verstappen,Max Verstappen,Red Bull,max_verstappen,Bahrain Grand Prix,True
+2024,2,max_verstappen,Max Verstappen,Red Bull,max_verstappen,Saudi Arabian Grand Prix,True
+2024,3,max_verstappen,Max Verstappen,Red Bull,sainz,Australian Grand Prix,False
+2024,4,max_verstappen,Max Verstappen,Red Bull,max_verstappen,Japanese Grand Prix,True
+2024,5,max_verstappen,Max Verstappen,Red Bull,max_verstappen,Chinese Grand Prix,True
+2024,6,max_verstappen,Max Verstappen,Red Bull,norris,Miami Grand Prix,False
+2024,7,max_verstappen,Max Verstappen,Red Bull,max_verstappen,Emilia Romagna Grand Prix,True
+2024,8,leclerc,Charles Leclerc,Ferrari,leclerc,Monaco Grand Prix,True
+2024,9,russell,George Russell,Mercedes,max_verstappen,Canadian Grand Prix,False
+2024,10,norris,Lando Norris,McLaren,max_verstappen,Spanish Grand Prix,False
+2024,11,max_verstappen,Max Verstappen,Red Bull,russell,Austrian Grand Prix,False
+2024,12,russell,George Russell,Mercedes,hamilton,British Grand Prix,False
+2024,13,norris,Lando Norris,McLaren,piastri,Hungarian Grand Prix,False
+2024,14,max_verstappen,Max Verstappen,Red Bull,hamilton,Belgian Grand Prix,False
+2024,15,norris,Lando Norris,McLaren,norris,Dutch Grand Prix,True
+2024,16,norris,Lando Norris,McLaren,leclerc,Italian Grand Prix,False
+2024,17,leclerc,Charles Leclerc,Ferrari,piastri,Azerbaijan Grand Prix,False
+2024,18,norris,Lando Norris,McLaren,norris,Singapore Grand Prix,True
+2024,19,norris,Lando Norris,McLaren,leclerc,United States Grand Prix,False
+2024,20,sainz,Carlos Sainz,Ferrari,sainz,Mexico City Grand Prix,True
+2024,21,norris,Lando Norris,McLaren,max_verstappen,São Paulo Grand Prix,False
+2024,22,russell,George Russell,Mercedes,russell,Las Vegas Grand Prix,True
+2024,23,max_verstappen,Max Verstappen,Red Bull,max_verstappen,Qatar Grand Prix,True
+2024,24,norris,Lando Norris,McLaren,norris,Abu Dhabi Grand Prix,True
