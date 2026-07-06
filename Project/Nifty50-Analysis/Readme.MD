@@ -21,9 +21,9 @@ The Indian stock market went through one of its sharpest crashes in March 2020, 
 | Average market return? | Nifty 50 stocks averaged 208% total return over 5 years |
 | Least Risky Sector? | FMCG showed lowest volatility |
 
-> 📝 CAPM Distribution: Used linear regression (y = mx + c) for each stock against the Nifty 50 index to isolate Alpha ($\alpha$) and Beta ($\beta$)values and map them onto a four-quadrant scatter grid
+> 📝 CAPM Distribution: Used linear regression (y = mx + c) for each stock against the Nifty 50 index to isolate Alpha ɑ and Beta ($\beta$)values and map them onto a four-quadrant scatter grid
 * Beta ($\beta$): Measures how sensitive a stock is to the overall market (Beta = 1 means it moves exactly with the market).
-* Alpha ($\alpha$): Measures the excess return a stock generated purely due to its own company strength, independent of market movements.
+* Alpha ɑ: Measures the excess return a stock generated purely due to its own company strength, independent of market movements.
 
 ---
 
